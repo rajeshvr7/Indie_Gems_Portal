@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 // Obtain your IP address
-const ipAddress = '172.31.45.9';
+const ipAddress = '0.0.0.0';
 
 // https://vitejs.dev/config/
 export default defineConfig({
